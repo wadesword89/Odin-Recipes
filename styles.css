@@ -1,0 +1,30 @@
+body{
+    background-color: orange;
+}
+
+h1 {
+    color:darkred;
+    text-align: center;
+}
+
+h2 {
+    color: firebrick;
+}
+
+h3 {
+    color: red;
+}
+
+img {
+    width: 400px;
+}
+
+.large-list {
+    font-size: x-large;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
